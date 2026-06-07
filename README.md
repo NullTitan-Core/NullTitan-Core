@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a developer passionate about building useful projects, learning new technologies, and contributing to open source.
 
